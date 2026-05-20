@@ -1,2 +1,2 @@
-# Project-Name---PRO1001-Frontend-Essentials
+# Project-Name-PRO1001-Frontend-Essentials
 Project Description
